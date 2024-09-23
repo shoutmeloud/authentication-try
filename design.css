@@ -1,0 +1,37 @@
+.main{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    height: 100%;
+    background-image: url('assets/sagar-dwivedi-qhQg07YHjvU-unsplash.jpg');
+    filter: blur(0.5px);
+    background-position: center;
+    background-size: cover;
+    
+
+  }
+  .titile {
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+    color: white;
+  }
+  .title2 {
+    text-align: center;
+    font-size: 2em;
+    font-style: italic;
+    color: white;
+  }
+  .btn{
+    border: 1px solid white;
+    border-radius: 20px;
+    font-weight: bold;
+
+
+  }
+  .btn:active{
+    color: white;
+  }
